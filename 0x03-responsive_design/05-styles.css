@@ -330,7 +330,7 @@
   }
   
   .header .menu-icon .navicon {
-    background-color: var(--color-white);
+    background: var(--color-white);
     display: block;
     width: 2rem;
     height: 0.2rem;
@@ -345,7 +345,7 @@
     width: 100%;
     height: 100%;
     position: absolute;
-    background-color: var(--color-white);
+    background: var(--color-white);
     transition: all 0.2s ease-out;
   }
   
